@@ -53,3 +53,8 @@ Desktop.ini
 
 # NetBeans files
 /nbproject/
+
+# Eclipse IDE support
+/.buildpath
+/.project
+.metadata
